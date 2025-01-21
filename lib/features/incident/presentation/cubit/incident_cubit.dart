@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:incident_reporting_app/features/incident/data/models/sub_type_model.dart';
 import 'package:incident_reporting_app/features/incident/data/models/type_model.dart';
